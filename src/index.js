@@ -1,5 +1,7 @@
 console.log("STARTED...Yeah!")
 
+import "./css/app.scss"
+
 import { Bs5PhotoCarousel } from "./components/bs5-photo-carousel"
 import { Bs5Demo } from "./components/bs5-demo"
 
